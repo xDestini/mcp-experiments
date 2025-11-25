@@ -1,0 +1,8 @@
+.env
+node_modules
+build
+yarn.lock
+package-lock.json
+yarn-error.log
+package-error.log
+mcp-server-weather
